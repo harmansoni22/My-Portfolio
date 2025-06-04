@@ -4,13 +4,6 @@ This is my first personal developer portfolio, handcrafted entirely using **pure
 
 ---
 
-## 🚀 Live Preview
-
-[View Live Site](https://github.com/harmansoni22/My-Portfolio)  
-*(Update this with your actual GitHub Pages link)*
-
----
-
 ## 📂 Tech Stack
 
 - **HTML5** – semantic layout and page structure  
